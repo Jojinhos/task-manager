@@ -9,4 +9,4 @@ function getTasks() {
   return tasks;
 }
 
-export { addTask, getTasks };
+ export { addTask, getTasks, deleteTask };
